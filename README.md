@@ -5,15 +5,15 @@ BCG Senior Manager Preparation Task List
 Part 1: Highlighting Leadership & Project Management Experience
 Digital Transformation Leadership
 
- Create a portfolio of 3-5 digital transformation projects you've led, including:
+### Create a portfolio of 3-5 digital transformation projects you've led, including:
 
-Project scope, timeline, and budget
-Stakeholder management approach (C-suite, technical teams, end users)
-Change management strategies implemented
-Quantifiable business outcomes (ROI, efficiency gains, cost savings)
-Lessons learned and how you adapted strategies mid-project
+>Project scope, timeline, and budget
+>Stakeholder management approach (C-suite, technical teams, end users)
+>Change management strategies implemented
+>Quantifiable business outcomes (ROI, efficiency gains, cost savings)
+>Lessons learned and how you adapted strategies mid-project
 
-# 1. University of Wisconsin Platteville - College of Business, International Business Office partnership with John Deere.
+# 1. University of Wisconsin Platteville - College of Business, International Business Office partnership with John Deere
 
 As a Program Manager for 4 years at the University, I partnered with the International Business professor to assist in the creation of a grant for the US Department of Education. This grant requires, proposal writeups to create a partnership between the Platteville University and Lagos Business school in Nigeria to create a cross-faculty trade facilitating agricultural studies between both schools, as well as providing an agenda and purchase agreements for John Deere tractors and farming equipment to Nigeria. This required collaboration with college faculty, letters of support from US Senators and Governors, as well as the delegation from the Nigerian government. This partnership was approved by the US Department of Education in excess of $400,000 to permit the partnership and create programs between faculties such as cross-training and visits from the government officials to UW-Platteville.
 
