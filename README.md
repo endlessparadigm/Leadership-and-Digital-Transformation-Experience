@@ -1,7 +1,6 @@
 # People-Leader-Skillset-Description
 Highlighting Leadership &amp; Digital Transformation Experience
 
-BCG Senior Manager Preparation Task List
 Part 1: Highlighting Leadership & Project Management Experience
 Digital Transformation Leadership
 
