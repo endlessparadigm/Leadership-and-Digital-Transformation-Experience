@@ -1,16 +1,7 @@
 # People-Leader-Skillset-Description
-Highlighting Leadership &amp; Digital Transformation Experience
 
-Part 1: Highlighting Leadership & Project Management Experience
 Digital Transformation Leadership
 
-### Create a portfolio of 3-5 digital transformation projects you've led, including:
-
->Project scope, timeline, and budget
->Stakeholder management approach (C-suite, technical teams, end users)
->Change management strategies implemented
->Quantifiable business outcomes (ROI, efficiency gains, cost savings)
->Lessons learned and how you adapted strategies mid-project
 
 ## 1. University of Wisconsin Platteville - College of Business, International Business Office partnership with John Deere
 
