@@ -22,6 +22,18 @@ At Thrivent  Financial, I led an 18-month $350,000 project to revise the waterfa
 
 > This was a useful project requiring few resources or off-shore staff assisting our team in the completion of this effort. During the digital transformation effort modernizing our cloud, devops infrastructure led us to the implementation of new Data Warehouses and Data Lakes, allowing our teams to integrate and facilitate the operation of our meta-data applications, data dictionaries, and business glossaries.
 
+
+
+
+
+
+
+// -- END OF DOCUMENT -- //
+
+
+
+
+
 ### Document your leadership style in transformation contexts:
 
 How you build consensus across technical and business teams
