@@ -22,10 +22,13 @@ At Thrivent  Financial, I led an 18-month $350,000 project to revise the waterfa
 
 > This was a useful project requiring few resources or off-shore staff assisting our team in the completion of this effort. During the digital transformation effort modernizing our cloud, devops infrastructure led us to the implementation of new Data Warehouses and Data Lakes, allowing our teams to integrate and facilitate the operation of our meta-data applications, data dictionaries, and business glossaries.
 
+## 4. Northwestern Mutual - Digital Transformation and Risk Governance
 
+At Northwestern Mutual, I was the Lead Project Engineer collaborating with several teams within the company to ensure digital compliance throughout our Cloud transformation efforts and modernization of legacy applications. I advised the Data Governance team in developing data retention policies and led off-shore Informatica teams in transforming the legacy ETL infrastructure to a digital Cloud environment inclusive of AWS Cloud, Docker, Kubernetes, Apache Airflow, and Terraform. 
 
+In our Digital transformation exercies, I led a cloud modernization project with a focus on AWS cloud architecture and DevOps integration to modernize legacy services. This transformation served to improve the quality of the codebase, and instructing the incoming engineers to adopt best practices and digital workplace methodologies during a successful year at the company despite COVID-related transitions. As a Risk Engineer, I was responsible for several products and assets within our group to review and document data compliance, server stability, security protocols, cyber-security attacks, and vendor relationships. 
 
-
+> My experience in Northwestern Mutual was significant due to the speed, quality, and efficiency the teams operate under. Together with hundreds of developers, product mnanagers, and Engineers, the leadership provides a strong incentive to pursue innovative solutions, and highly-flexible products through the use of Infrastructure as a Service, Containers as a Service, and Platforms as a Service. I also received the additional opportunity of mentoring developers, and fulfilled the role of DevOps practitioner, ensuring our coding pipelines were performing at their best.
 
 
 // -- END OF DOCUMENT -- //
